@@ -122,4 +122,4 @@ The Docker container was deployed on Azure, ensuring that the model is accessibl
 
 This project successfully developed a machine learning model to predict heart disease. The model was trained and evaluated on the provided dataset and deployed using Docker and Azure for real-time predictions.
 
-<img src="Demo.gif" alt="Demo" width="600" height="400">
+<img src="Demo.gif" alt="Demo" >
